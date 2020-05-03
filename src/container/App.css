@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'SEGA LOGO FONT';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SEGA LOGO FONT'), url('./SEGA.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'PitStop Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('PitStop Regular'), url('./Pitstop-4wGB.woff') format('woff');
+}
+
+h1 {
+  font-family: 'SEGA LOGO FONT';
+}
